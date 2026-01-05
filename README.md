@@ -1,31 +1,24 @@
-# Ciao, sono Samuele! 👋
-**Ingegnere Meccatronico | Power Electronics | Industrial Automation**
+# Samuele Fortini
+**Mechatronic Engineer | Power Electronics | Industrial Automation**
 
-Benvenuto nel mio portfolio tecnico. Qui raccolgo i miei progetti che spaziano dalla progettazione elettronica al controllo di robot industriali.
-
----
-
-## 🛠️ Competenze Chiave
-* **Elettronica:** Cadence Virtuoso, Altium Designer, PLECS, LTspice.
-* **Automazione:** Matlab/Simulink, TwinCAT3 (PLC), V+ (Robotica).
-* **Embedded:** C/C++, STM32, Python.
-* **Meccanica:** Ansys (FEM), Inventor, AutoCAD.
+Master's graduate in Mechatronic Engineering from the University of Padua, Italy.
+Passionate about innovation in power electronics, control optimization and embedded systems, I am eager to contribute to cutting-edge projects across different sectors.
 
 ---
 
-## 📂 I Miei Progetti (In arrivo)
+## Power Electronics & Embedded Systems
 
-### 🤖 Automazione & Robotica
-* **[Delta Robot Pick & Place] (link-al-progetto)**
-   Programmazione di un robot parallelo sincronizzato con nastri trasportatori.
-* **[Manipolatore Cartesiano] (link-al-progetto)**
-   Logica PLC (TwinCAT3) per la movimentazione lamiere.
-
-### ⚡ Elettronica di Potenza
-* **[Buck Converter Control] (link-al-progetto)**
-   Analisi e simulazione del controllo peak current (Tesi Magistrale).
-* **[STM32 Fan Controller] (link-al-progetto)**
-   Firmware in C per il controllo velocità ventole.
+**Buck Converter Analysis**
+* **Description:** Analysis and modeling of a peak current control architecture for automotive DC/DC converters. Designed the emulation circuit and validation setup for a preliminary test-chip.
+* **Tools:** Cadence Virtuoso, PLECS, SIMetrix/Simplis, Python.
+* [View Project >](./link-to-repository)
 
 ---
-📫 **Contatti:** [LinkedIn](https://www.linkedin.com/in/samuele-fortini) | [Email](mailto:fortinisamuele18@gmail.com)
+
+## Industrial Automation & Robotics 
+[Coming soon]
+
+---
+
+### Contact
+[LinkedIn Profile](https://www.linkedin.com/in/samuele-fortini) | [Email Me](mailto:fortinisamuele18@gmail.com)
