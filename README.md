@@ -9,8 +9,8 @@ Passionate about innovation in power electronics, control optimization and embed
 ## Power Electronics & Embedded Systems
 
 **Buck Converter Analysis**
-* **Description:** Analysis and modeling of a peak current control architecture for automotive DC/DC converters. Designed the emulation circuit and validation setup for a preliminary test-chip.
-* **Tools:** Cadence Virtuoso, PLECS, SIMetrix/Simplis, Python.
+* **Description:** Analysis and modeling of buck architecture.
+* **Tools:** LTspice.
 * [View Project >](./link-to-repository)
 
 ---
