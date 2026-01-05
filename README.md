@@ -6,11 +6,11 @@ Passionate about innovation in power electronics, control optimization and embed
 
 ---
 
-## Power Electronics & Embedded Systems
+## Power Electronics
 
-**Buck Converter Analysis**
-* **Description:** Analysis and modeling of buck architecture.
-* **Tools:** LTspice.
+**Power-Electronics-University-Labs**
+* **Description:** This repository collects technical reports and simulations from the Power Electronics Laboratory course.
+The focus is on DC/DC converters analysis, comparing theoretical models with LTspice simulations and real hardware measurements.
 * [View Project >](./link-to-repository)
 
 ---
